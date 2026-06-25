@@ -29,3 +29,6 @@ A desktop application built with Python and Tkinter for managing news articles a
 * MySQL - Database management system
 
   
+## Visualaization
+![image alt](https://github.com/tuhuramaliklimu-debug/DBMSproject/blob/5604634dd968dc08d7f5b4a4d53b1a5b0c30447b/user_management_system.png)
+![image alt](https://github.com/tuhuramaliklimu-debug/DBMSproject/blob/d6d2afde51e8e6f19814a1e825ef9dd34bd2a0cc/news_management_system.png)
